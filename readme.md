@@ -26,7 +26,7 @@ What it does:
 
 - 🔁 Looping with `while`
 - ✅ Using `switch` statements for operation logic
-- 🧼 Input validation and buffer cleanup with `" %c"`
+- 🧼 Input validation and buffer cleanup.
 - 🔄 User-controlled flow to restart/exit the program
 
 ---
