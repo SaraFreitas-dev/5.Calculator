@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/terminal_example.png" alt="Terminal Calculator Program Banner" width="100%">
+  <img src="./img/Banner.png" alt="C Programming Mini Projects Series" width="100%">
 </p>
 
 # 🧮 Project 5 – Calculator Tool (in C)
